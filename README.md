@@ -3,4 +3,4 @@
 
 Unfortunately, most of my projects here on GitHub are not finished, but I can still list the interesting project ideas that I'm currently working on, or will still work on.
 
-If you need to reach or contact me, or ask me a question, feel free to reach me on (Twitter)[https://x.com/pvini07BR] or DM me on Discord (pvini07BR).
+If you need to reach or contact me, or ask me a question, feel free to reach me on [Twitter](https://x.com/pvini07BR) or DM me on Discord (pvini07BR).
